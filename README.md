@@ -39,19 +39,19 @@ We Dockerizing our application for deployment. We utilized Elastic Beanstalk and
 ## Testing the Application
 
 #### Front End testing with Enzyme
-![Front End testing with Enzyme](https://github.com/Varshit07/Zipcar//blob/master/Diagram/front_end_testing_with_enzyme.png "Front End testing with Enzyme")
+![Front End testing with Enzyme](https://github.com/Varshit07/Zipcar/blob/master/Diagram/front_end_testing_with_enzyme.png "Front End testing with Enzyme")
 
 #### API testing with Mocha
-![API testing with Mocha](https://github.com/Varshit07/Zipcar//blob/master/Diagram/API_testing_with_Mocha.png "API testing with Mocha")
+![API testing with Mocha](https://github.com/Varshit07/Zipcar/blob/master/Diagram/API_testing_with_Mocha.png "API testing with Mocha")
 
 #### Performance Testing on Production with 1000 users concurrent requests
-![Performance Testing on Production with 1000 users concurrent requests](https://github.com/Varshit07/Zipcar//blob/master/Diagram/jmeter_testing_with_1000.png "Performance Testing on Production with 1000 users concurrent requests")
+![Performance Testing on Production with 1000 users concurrent requests](https://github.com/Varshit07/Zipcar/blob/master/Diagram/jmeter_testing_with_1000.png "Performance Testing on Production with 1000 users concurrent requests")
 
 #### Performance Testing on Production with 2000 users concurrent requests
-![Performance Testing on Production with 2000 users concurrent requests](https://github.com/Varshit07/Zipcar//blob/master/Diagram/jmeter_testing_with_2000.png "Performance Testing on Production with 2000 users concurrent requests")
+![Performance Testing on Production with 2000 users concurrent requests](https://github.com/Varshit07/Zipcar/blob/master/Diagram/jmeter_testing_with_2000.png "Performance Testing on Production with 2000 users concurrent requests")
 
 ### Performance Testing on Production with 3000 users concurrent requests
-![Performance Testing on Production with 3000 users concurrent requests](https://github.com/Varshit07/Zipcar//blob/master/Diagram/jmeter_testing_with_3000.png "Performance Testing on Production with 3000 users concurrent requests")
+![Performance Testing on Production with 3000 users concurrent requests](https://github.com/Varshit07/Zipcar/blob/master/Diagram/jmeter_testing_with_3000.png "Performance Testing on Production with 3000 users concurrent requests")
 
 ## Wireframe for all pages(UI)
 All wireframes are created with the [Pencil Project](https://pencil.evolus.vn/ "Pencil Project").
